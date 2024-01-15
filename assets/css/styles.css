@@ -135,7 +135,7 @@ footer a{
     padding: 1em;
     text-align: justify;
 }
-.datos{
+.datos, .edu, .hab, .exp{
   margin: 1em;
   padding: 1em;
 }
@@ -207,6 +207,9 @@ footer a{
     text-align: justify;
 }
 
+ol li .flag{
+    width: 20px;
+}
 
 /* 1200px / 16px = 75em */
 @media (max-width: 75em) {
