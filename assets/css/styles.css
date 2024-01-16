@@ -13,13 +13,15 @@ body{
 
 header{
     margin: 0;
-    height: 10em;
+    height: 20em;
     padding: 5em;
     background-image: url(../img/tech.jpg);
     background-size: cover;
     background-position: center;
 }
-
+.header{
+    height: 10em;
+}
 .logo{
     margin: auto;
     width: 150px;
