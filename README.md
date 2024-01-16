@@ -6,6 +6,6 @@ Curriculum mas portafolio inicial examen final desafio latam módulo 1 - introdu
 - deploy: https://macalister0109.github.io/macalister0109/
 - proyectos forkeados y commiteados:
   - 1: https://github.com/CodeWithAdriana/codewithadriana.github.io
-  - 2: 
+  - 2: https://github.com/andreaendigital/andreaendigital 
 - proyecto forkeado + pull request
   - 1: https://github.com/CodeWithAdriana/codewithadriana.github.io
