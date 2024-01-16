@@ -20,6 +20,9 @@ header {
   background-size: cover;
   background-position: center;
 }
+.header{
+  height: 20em;
+}
 
 .logo {
   margin: auto;
