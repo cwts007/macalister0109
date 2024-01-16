@@ -6,6 +6,6 @@ Curriculum mas portafolio inicial examen final desafio latam módulo 1 - introdu
 - deploy: https://macalister0109.github.io/CVPortafolio/
 - proyectos forkeados y commiteados:
   - 1: https://github.com/camilasant-pvz5/macalister0109
-  - 2
+  - 2: https://github.com/KatPonse/macalister0109
 - proyecto forkeado + pull request
   - 1
