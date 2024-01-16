@@ -4,7 +4,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="shortcut icon" href="assets/img/Logo Maca-16_BL.png" type="image/x-icon">
-    <link rel="stylesheet" href="./assets/css/styles.css">
+    <link rel="stylesheet" href="./assets/css/estilo_cards.css">
+    <link rel="stylesheet" href="./assets/css/styles.css">    
     <title>CV</title>
 </head>
 <body>
@@ -25,9 +26,38 @@
     </section>
   <section>
     <h3>Trabajos</h3>
-    <div>
-        
-    </div>
+    <ul class="cards">
+        <li class="cards__item">
+          <div class="card">
+            <div class="card__image card__image--iguana"></div>
+            <div class="card__content">
+              <div class="card__title">Iguana Page</div>
+              <p class="card__text">Este sitio es una landing page usando para alinear los elementos flex </p>
+              <a href="https://codepen.io/macalister0109/pen/ExrzPjO" target="_blank" rel="noopener noreferrer"><button class="btn btn--block card__btn">Ver más</button></a>
+            </div>
+          </div>
+        </li>
+        <li class="cards__item">
+          <div class="card">
+            <div class="card__image card__image--doc"></div>
+            <div class="card__content">
+              <div class="card__title">Información Documentación Técnica</div>
+              <p class="card__text">Sitio de información técnica de un lenguaje de programación, en esta práctica usé uno de mis favoritos para aprender a programar en principiantes, PSEINT.</p>
+              <a href="https://codepen.io/macalister0109/pen/abXjKNe" target="_blank" rel="noopener noreferrer"><button class="btn btn--block card__btn">Ver más</button></a>
+            </div>
+          </div>
+        </li>
+        <li class="cards__item">
+          <div class="card">
+            <div class="card__image card__image--record"></div>
+            <div class="card__content">
+              <div class="card__title">Flex Shrink</div>
+              <p class="card__text">This defines the ability for a flex item to shrink if necessary. Negative numbers are invalid.</p>
+              <button class="btn btn--block card__btn">Button</button>
+            </div>
+          </div>
+        </li>        
+      </ul>
   </section> 
 </main>
 <footer>
